@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SumanKumarPradhan
-- 👀 I’m interested in designing webdevelopment
+- 👀 I’m interested in designing webapplication
 - 🌱 I’m currently learning webdevelopment
 - 💞️ I’m looking to collaborate on team project
 - 📫 How to reach me updated soon
